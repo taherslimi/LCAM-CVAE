@@ -12,4 +12,4 @@ class ChannelAttention(nn.Module):
     def __init__(self, in_channels, reduction=16):
         super(ChannelAttention, self).__init__()
         
-# The rest of the code will be available after acceptance of the article 
+# The rest of the code will be available after acceptance of the paper. 
